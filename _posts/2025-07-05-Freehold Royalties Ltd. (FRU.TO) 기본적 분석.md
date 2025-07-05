@@ -1,4 +1,3 @@
-
 ---
 title: Freehold Royalties Ltd. (FRU.TO) 기본적 분석
 date: 2025-07-05 00:25:03
