@@ -1,1 +1,1 @@
-<p>LLM과 PDF에서 구조화된 데이터를 추출할 때, Markdown 텍스트가 일반 텍스트보다 우월하다는 것은 명확한 사실이다.</p>
+Updated content.
